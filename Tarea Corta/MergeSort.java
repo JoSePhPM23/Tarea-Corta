@@ -1,5 +1,7 @@
 import java.util.Arrays;
-
+// Este código de ordenamiento Merge Sort fue adaptado de CodeGym en:
+// https://codegym.cc/groups/posts/merge-sort-in-java
+// Autor original: Vasyl Malik (Senior Java Developer at CodeGym)
 class HelloWorld {
 
     public static void merge(
