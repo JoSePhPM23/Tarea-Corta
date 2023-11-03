@@ -1,5 +1,6 @@
 import java.util.Arrays;
-
+// Este código de ordenamiento Quick Sort fue adaptado de GeeksforGeeks en:
+// https://www.geeksforgeeks.org/quick-sort/
 class QuickSortBenchmark {
 
     static void swap(int[] arr, int i, int j) {
